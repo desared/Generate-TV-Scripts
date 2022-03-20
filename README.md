@@ -1,6 +1,7 @@
 # Generate-TV-Scripts
+Project for [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), unit 4.
 
-This is the third Udacity Project from the Deep Learning Nanodegree. It consist of generating its own Seinfeld TV scripts using RNNs and a Seinfeld dataset of scripts from 9 seasons. The Neural Network will generate a new, "fake" TV script.
+This project consists of generating its own Seinfeld TV scripts using RNNs and a Seinfeld dataset of scripts from 9 seasons. The Neural Network will generate a new, "fake" TV script.
 
 ## Steps:
 
